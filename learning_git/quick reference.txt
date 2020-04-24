@@ -1,0 +1,5 @@
+git clone <adres-repozytorium> - klonuje repozytorium
+git status - pokazuje zmiany w lokalnym repozytorium
+git add . - dodaje wszystkie zmodyfikowane pliki do commita
+git commit -m "wiadomosc" - tworzy commit ze zmian dodanych przy pomocy add
+git push - aktualizuje repozytorium
