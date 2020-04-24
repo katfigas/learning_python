@@ -3,3 +3,4 @@ git status - pokazuje zmiany w lokalnym repozytorium
 git add . - dodaje wszystkie zmodyfikowane pliki do commita
 git commit -m "wiadomosc" - tworzy commit ze zmian dodanych przy pomocy add
 git push - aktualizuje repozytorium
+git pull - pobiera aktualne zmiany 
